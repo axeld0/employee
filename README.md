@@ -17,6 +17,10 @@ Employee[dni=?, name=?, surname=?, salary=?]
 
 
 a. Initialize an employee, Carlos Gutierrez, with dni 23456345 and an initial salary of 25000.
+
 b. Initialize an employee, Ana Sanchez, with dni 34234123 and an initial salary of 27500.
+
 c. Print both objects on the screen.
+
 d. Increase Carlos's salary by 15% and print his annual salary on the screen.
+
